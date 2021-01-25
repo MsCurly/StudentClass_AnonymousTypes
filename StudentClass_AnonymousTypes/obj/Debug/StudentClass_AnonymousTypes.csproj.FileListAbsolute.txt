@@ -1,0 +1,7 @@
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\StudentClass_AnonymousTypes\StudentClass_AnonymousTypes\bin\Debug\StudentClass_AnonymousTypes.exe.config
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\StudentClass_AnonymousTypes\StudentClass_AnonymousTypes\bin\Debug\StudentClass_AnonymousTypes.exe
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\StudentClass_AnonymousTypes\StudentClass_AnonymousTypes\bin\Debug\StudentClass_AnonymousTypes.pdb
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\StudentClass_AnonymousTypes\StudentClass_AnonymousTypes\obj\Debug\StudentClass_AnonymousTypes.csprojAssemblyReference.cache
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\StudentClass_AnonymousTypes\StudentClass_AnonymousTypes\obj\Debug\StudentClass_AnonymousTypes.csproj.CoreCompileInputs.cache
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\StudentClass_AnonymousTypes\StudentClass_AnonymousTypes\obj\Debug\StudentClass_AnonymousTypes.exe
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\StudentClass_AnonymousTypes\StudentClass_AnonymousTypes\obj\Debug\StudentClass_AnonymousTypes.pdb
